@@ -1,7 +1,7 @@
 # Printf_Project
 Implémenter la fonction printf() de la libc.
 
-Compiler le projet avec en utilisant la regle make du Makefile et ensuite utiliser la fonction ft_printf comme la vrai fonction printf
+Compiler le projet en utilisant la regle make du Makefile et ensuite utiliser la fonction ft_printf comme la vrai fonction printf
 
 A savoir que les options utilisables sont :
 
