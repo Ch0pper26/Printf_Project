@@ -1,7 +1,7 @@
 # Printf_Project
 Implémenter la fonction printf() de la libc.
 
-Compiler le projet en utilisant la regle make du Makefile et ensuite utiliser la fonction ft_printf comme la vrai fonction printf
+Compiler le projet en utilisant la règle make du Makefile et ensuite utiliser la fonction ft_printf comme la vrai fonction printf.
 
 A savoir que les options utilisables sont :
 
@@ -9,7 +9,7 @@ A savoir que les options utilisables sont :
 
 • %s Affiche une chaîne de caractères (telle que définie par la convention C).
 
-• %p L’argument de pointeur void * doit être affiché en hexadécimal.
+• %p Affiche l'adresse du pointeur.
 
 • %d Affiche un nombre décimal (base 10).
 
